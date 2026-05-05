@@ -1,2 +1,2 @@
 # project_euler
-Working on solving Project Euler problems at https://projecteuler.net/about
+Working on solving Project Euler problems from https://projecteuler.net/about
